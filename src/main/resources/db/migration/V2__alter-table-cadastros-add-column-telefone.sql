@@ -1,0 +1,1 @@
+alter table cadastros add telefone varchar(20) not null;
